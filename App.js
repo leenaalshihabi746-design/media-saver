@@ -1,9 +1,18 @@
-import { Text, View } from 'react-native';
+import { Text, View, StyleSheet } from 'react-native';
 
 export default function App() {
   return (
-    <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
-      <Text>Hello Media Saver 👋</Text>
+    <View style={styles.container}>
+      <Text>Media Saver App 🚀</Text>
     </View>
   );
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
