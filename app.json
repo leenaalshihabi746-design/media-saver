@@ -6,7 +6,4 @@
     "orientation": "portrait",
     "platforms": ["android"],
     "android": {
-      "package": "com.leena.mediasaver"
-    }
-  }
-}
+      "package": "com.leena.mediasaver
