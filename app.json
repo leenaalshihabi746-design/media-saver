@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "media-saver",
+    "slug": "media-saver-yipvdym-yxo53m8gledm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.leena.mediasaver"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1d9c7154-aeb2-466f-88d8-a3220b9e106f"
+      }
+    }
+  }
+}
