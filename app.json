@@ -8,4 +8,10 @@
     "android": {
       "package": "com.leena.mediasaver"
     },
-
+    "extra": {
+      "eas": {
+        "projectId": "1d9c7154-aeb2-466f-88d8-a3220b9e106f"
+      }
+    }
+  }
+    }
