@@ -8,18 +8,15 @@
     "android": {
       "package": "com.leena.mediasaver"
     },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "extra": {
       "eas": {
         "projectId": "1d9c7154-aeb2-466f-88d8-a3220b9e106f"
       }
-    },
-    "plugins": [
-      [
-        "expo-splash-screen",
-        {
-          "backgroundColor": "#ffffff"
-        }
-      ]
-    ]
+    }
   }
 }
