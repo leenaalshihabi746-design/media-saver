@@ -6,4 +6,12 @@
     "orientation": "portrait",
     "platforms": ["android"],
     "android": {
-      "package": "com.leena.mediasaver
+      "package": "com.leena.mediasaver"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "11111111-1111-1111-1111-111111111111"
+      }
+    }
+  }
+}
